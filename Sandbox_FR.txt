@@ -1,0 +1,13 @@
+Sandbox_FR = {
+    Sandbox_HazardousZones_DrainageFilter = "[Hazardous Zones] Dommages aux filtres",
+    Sandbox_HazardousZones_DrainageFilter_tooltip = "Les zones dangereuses consommeront-elles le filtre lorsqu'elles sont à l'intérieur."
+	
+	Sandbox_HazardousZones_TimetoDrainFilter = "[Hazardous Zones] Temps pour détruire un filtre [en heures]",
+    Sandbox_HazardousZones_TimetoDrainFilter_tooltip = "Temps nécessaire aux zones dangereuses pour vider complètement un filtre."
+	
+	Sandbox_HazardousZones_DrainageOxyTank = "[Hazardous Zones] Consommation du réservoir d'oxygène",
+    Sandbox_HazardousZones_DrainageOxyTank_tooltip = "Les zones dangereuses consommeront-elles les réservoirs d'oxygène lorsqu'elles sont à l'intérieur."
+	
+	Sandbox_HazardousZones_TimetoDrainOxyTank = "[Hazardous Zones] Temps pour consommer un réservoir d'oxygène [en heures]",
+    Sandbox_HazardousZones_TimetoDrainOxyTank_tooltip = "Temps nécessaire aux zones dangereuses pour vider complètement un réservoir d'oxygène."
+}
